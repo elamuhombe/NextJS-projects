@@ -1,0 +1,1 @@
+//src/app/components/header/hero/Hero.tsx
